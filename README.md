@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @slenderongithub
 - 👀 I’m interested in technology
 - 🌱 I’m currently learning programming and other creative skills
-- 💞️ I’m looking to collaborate on nothing 
+- 💞️ I’m not looking to collaborate on anything
 - 📫 How to reach me - Email: slender7678@gmailcom
 
 <!---
