@@ -40,105 +40,32 @@
 <td width="50%">
 
 ### 🎯 BaitBlock
+**AI-Powered Clickbait Detection**
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/slenderongithub/BaitBlock)
 
-> AI-powered clickbait detection web app that analyzes news URLs and scores headline credibility using content extraction and heuristic NLP signals.
+> Web application that analyzes news URLs and scores headline credibility using content extraction and heuristic NLP signals
 
-**🔥 Lang:** Python &nbsp; [![Stars](https://img.shields.io/badge/⭐-0-00f7ff?style=for-the-badge)](https://github.com/slenderongithub/BaitBlock) [![Forks](https://img.shields.io/badge/🍴-0-00f7ff?style=for-the-badge)](https://github.com/slenderongithub/BaitBlock)
+**🔥 Tech Stack:** Python • NLP • Web Scraping • AI/ML
 
 [📂 View Repository →](https://github.com/slenderongithub/BaitBlock)
 
 </td>
 <td width="50%">
 
-### 🛡️ CareLink
+### 🛡️ Smart-Glove-Safety-Device
+**AI Wearable Safety**
 
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/slenderongithub/CareLink)
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/slenderongithub/Smart-Glove-Safety-Device)
 
-> No description provided.
+> AI-powered wearable safety device using Arduino and sensors for real-time hazard detection
 
-**🔥 Lang:** TypeScript &nbsp; [![Stars](https://img.shields.io/badge/⭐-0-00f7ff?style=for-the-badge)](https://github.com/slenderongithub/CareLink) [![Forks](https://img.shields.io/badge/🍴-0-00f7ff?style=for-the-badge)](https://github.com/slenderongithub/CareLink)
+**🔥 Tech Stack:** C++ • Arduino • Sensors • Hardware
 
-[📂 View Repository →](https://github.com/slenderongithub/CareLink)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 💼 DumbAthon
-
-[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/slenderongithub/DumbAthon)
-
-> A very stupid website game made within 2 hours
-
-**🔥 Lang:** HTML &nbsp; [![Stars](https://img.shields.io/badge/⭐-0-00f7ff?style=for-the-badge)](https://github.com/slenderongithub/DumbAthon) [![Forks](https://img.shields.io/badge/🍴-0-00f7ff?style=for-the-badge)](https://github.com/slenderongithub/DumbAthon)
-
-[📂 View Repository →](https://github.com/slenderongithub/DumbAthon)
-
-</td>
-<td width="50%">
-
-### 🎨 HabitTrackerForge
-
-[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/slenderongithub/HabitTrackerForge)
-
-> No description provided.
-
-**🔥 Lang:** HTML &nbsp; [![Stars](https://img.shields.io/badge/⭐-0-00f7ff?style=for-the-badge)](https://github.com/slenderongithub/HabitTrackerForge) [![Forks](https://img.shields.io/badge/🍴-0-00f7ff?style=for-the-badge)](https://github.com/slenderongithub/HabitTrackerForge)
-
-[📂 View Repository →](https://github.com/slenderongithub/HabitTrackerForge)
+[📂 View Repository →](https://github.com/slenderongithub/Smart-Glove-Safety-Device)
 
 </td>
 </tr>
-
-<tr>
-<td width="50%">
-
-### 📊 HACK-ME-IF-YOU-CAN
-
-[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/slenderongithub/HACK-ME-IF-YOU-CAN)
-
-> No description provided.
-
-**🔥 Lang:** HTML &nbsp; [![Stars](https://img.shields.io/badge/⭐-0-00f7ff?style=for-the-badge)](https://github.com/slenderongithub/HACK-ME-IF-YOU-CAN) [![Forks](https://img.shields.io/badge/🍴-1-00f7ff?style=for-the-badge)](https://github.com/slenderongithub/HACK-ME-IF-YOU-CAN)
-
-[📂 View Repository →](https://github.com/slenderongithub/HACK-ME-IF-YOU-CAN)
-
-</td>
-<td width="50%">
-
-### 🎮 Portfolio
-
-[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/slenderongithub/Portfolio)
-
-> No description provided.
-
-**🔥 Lang:** CSS &nbsp; [![Stars](https://img.shields.io/badge/⭐-0-00f7ff?style=for-the-badge)](https://github.com/slenderongithub/Portfolio) [![Forks](https://img.shields.io/badge/🍴-0-00f7ff?style=for-the-badge)](https://github.com/slenderongithub/Portfolio)
-
-[📂 View Repository →](https://github.com/slenderongithub/Portfolio)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" colspan="2" align="center">
-
-### 🔐 slenderongithub
-
-[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/slenderongithub/slenderongithub)
-
-> No description provided.
-
-**🔥 Lang:** HTML &nbsp; [![Stars](https://img.shields.io/badge/⭐-0-00f7ff?style=for-the-badge)](https://github.com/slenderongithub/slenderongithub) [![Forks](https://img.shields.io/badge/🍴-0-00f7ff?style=for-the-badge)](https://github.com/slenderongithub/slenderongithub)
-
-[📂 View Repository →](https://github.com/slenderongithub/slenderongithub)
-
-</td>
-</tr>
-
 </table>
 <!-- PROJECTS:END -->
 
@@ -172,12 +99,11 @@
 
 <!-- LANGS:START -->
 ```text
-HTML         ███████░░░░░░░░░░░░░   33.2%
-TypeScript   █████░░░░░░░░░░░░░░░   22.6%
-JavaScript   ████░░░░░░░░░░░░░░░░   18.1%
-CSS          ███░░░░░░░░░░░░░░░░░   17.2%
-Python       ██░░░░░░░░░░░░░░░░░░    8.7%
-PowerShell   ░░░░░░░░░░░░░░░░░░░░    0.1%
+Python       ████████████░░░░░░░░   48.0%
+JavaScript   ████████████░░░░░░░░   38.6%
+CSS          ███░░░░░░░░░░░░░░░░░    8.2%
+HTML         ██░░░░░░░░░░░░░░░░░░    4.1%
+PowerShell   ░░░░░░░░░░░░░░░░░░░░    1.1%
 ```
 <!-- LANGS:END -->
 
@@ -188,19 +114,19 @@ PowerShell   ░░░░░░░░░░░░░░░░░░░░    0.1
 ## 📈 GITHUB ANALYTICS
 
 <div align="center">
-  
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&animation=twinkling"/>
 
 </div>
 
 <div align="center">
-  
+
 <table>
 <tr>
 <td width="50%" align="center">
-  
+
 <img src="https://github-readme-stats.vercel.app/api?username=slenderongithub&show_icons=true&theme=radical&bg_color=0d1117&title_color=00f7ff&icon_color=00f7ff&text_color=c9d1d9&border_color=00f7ff&hide_border=false&include_all_commits=true&count_private=true" width="100%" />
-  
+
 </td>
 <td width="50%" align="center">
 
@@ -235,7 +161,7 @@ PowerShell   ░░░░░░░░░░░░░░░░░░░░    0.1
 </div>
 
 <div align="center">
-  
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
 
 </div>
@@ -256,15 +182,30 @@ PowerShell   ░░░░░░░░░░░░░░░░░░░░    0.1
 
 <div align="center">
 
-```javascript
-const currentlyWorkingOn = {
-    🎯 focus: "AI/ML Applications & Web Development",
-    🔨 building: "Intelligent solutions that solve real problems",
-    📚 learning: ["Advanced NLP", "Computer Vision", "IoT Integration"],
-    🎨 interests: ["AI Safety", "Clickbait Detection", "Wearable Tech"],
-    💬 askMeAbout: ["Python", "JavaScript", "AI/ML", "Arduino"],
-    🎮 funFact: "Built a game in 2 hours because why not? 🚀"
-};
+```yaml
+# ╔══════════════════════════════════════════════════════════════╗
+# ║            ⚡  SLENDER — LIVE DEVELOPER PROFILE  ⚡          ║
+# ╚══════════════════════════════════════════════════════════════╝
+
+status:       🟢 ONLINE
+uptime:       "Building since day one"
+
+focus:        "AI/ML Applications & Web Development"
+building:     "Intelligent solutions that solve real problems"
+
+learning:
+  - "> Advanced NLP          [████████████░░░░]  75%"
+  - "> Computer Vision       [█████████░░░░░░░]  56%"
+  - "> IoT Integration       [███████████████░]  94%"
+
+interests:    [ AI Safety, Clickbait Detection, Wearable Tech ]
+ask_me_about: [ Python, JavaScript, AI/ML, Arduino ]
+
+fun_fact:     "Built a game in 2 hours because why not? 🚀"
+
+# ──────────────────────────────────────────────────────────────
+# STATUS: SHIPPING  |  COFFEE: ☕☕☕  |  BUGS: DENIED
+# ──────────────────────────────────────────────────────────────
 ```
 
 </div>
@@ -276,20 +217,36 @@ const currentlyWorkingOn = {
 <div align="center">
 
 ```python
-class Developer:
-    def __init__(self):
-        self.name = "Slender"
-        self.role = "Full-Stack Developer"
-        self.language_spoken = ["Python", "JavaScript", "TypeScript", "C++"]
-    
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together.")
-    
-    def get_motto(self):
-        return "Code with purpose. Build with passion. Ship with pride. 🚀"
+# ┌─────────────────────────────────────────────────────────────┐
+# │             SLENDER :: DEVELOPER MANIFEST v2.0              │
+# │             BUILD: FULL-STACK  //  AI-ENHANCED              │
+# └─────────────────────────────────────────────────────────────┘
 
+from __future__ import annotations
+from dataclasses import dataclass, field
+
+@dataclass
+class Developer:
+    name  : str  = "Slender"
+    role  : str  = "Full-Stack Developer  ⚡  AI Enthusiast"
+    stack : list = field(default_factory=lambda: [
+                       "Python", "JavaScript", "TypeScript", "C++"
+                   ])
+    motto : str  = "Code with purpose. Build with passion. Ship with pride."
+
+    def __post_init__(self) -> None:
+        print(f"  [BOOT] {self.name}.exe — initialized ✓")
+        print(f"  [ROLE] {self.role}")
+        print(f"  [DEPS] {' · '.join(self.stack)}")
+        print(f"  [MOTD] {self.motto} 🚀")
+
+    def available_for(self) -> list[str]:
+        return ["collabs", "open-source", "building wild ideas"]
+
+# ─────────────────────────────────────────────────────────────
 me = Developer()
-me.say_hi()
+me.__post_init__()
+# ─────────────────────────────────────────────────────────────
 ```
 
 </div>
