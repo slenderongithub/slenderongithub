@@ -243,7 +243,7 @@ PowerShell  ░░░░░░░░░░░░░░░░    0.1%
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=slenderongithub&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=7&title=Stars,Followers,Commits,Repositories,Issues,PullRequest,Experience)](https://github.com/slenderongithub)
+<img src="https://github-profile-trophy.vercel.app/?username=slenderongithub&theme=radical&margin-w=10&margin-h=10&column=7" />
 
 </div>
 
