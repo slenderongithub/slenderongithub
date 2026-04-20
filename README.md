@@ -285,46 +285,6 @@ STATUS: SHIPPING  |  COFFEE: ☕☕☕  |  BUGS: DENIED
 
 ---
 
-## 🎨 CODE PHILOSOPHY
-
-<div align="center">
-
-```python
-# ┌─────────────────────────────────────────────────────────────┐
-# │             SLENDER :: DEVELOPER MANIFEST v2.0              │
-# │             BUILD: FULL-STACK  //  AI-ENHANCED              │
-# └─────────────────────────────────────────────────────────────┘
-
-from __future__ import annotations
-from dataclasses import dataclass, field
-
-@dataclass
-class Developer:
-    name  : str  = "Slender"
-    role  : str  = "Full-Stack Developer  ⚡  AI Enthusiast"
-    stack : list = field(default_factory=lambda: [
-                       "Python", "JavaScript", "TypeScript", "C++"
-                   ])
-    motto : str  = "Code with purpose. Build with passion. Ship with pride."
-
-    def __post_init__(self) -> None:
-        print(f"  [BOOT] {self.name}.exe — initialized ✓")
-        print(f"  [ROLE] {self.role}")
-        print(f"  [DEPS] {' · '.join(self.stack)}")
-        print(f"  [MOTD] {self.motto} 🚀")
-
-    def available_for(self) -> list[str]:
-        return ["collabs", "open-source", "building wild ideas"]
-
-# ─────────────────────────────────────────────────────────────
-me = Developer()
-me.__post_init__()
-# ─────────────────────────────────────────────────────────────
-```
-
-</div>
-
----
 
 ## 📫 CONNECT WITH ME
 
