@@ -239,15 +239,6 @@ PowerShell  ░░░░░░░░░░░░░░░░    0.1%
 
 ---
 
-## 🏆 ACHIEVEMENTS
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=slenderongithub&theme=radical&margin-w=10&margin-h=10&column=7" />
-
-</div>
-
----
 
 ## 💡 CURRENT FOCUS
 
