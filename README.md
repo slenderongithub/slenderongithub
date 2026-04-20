@@ -171,7 +171,7 @@
 ### Language Distribution
 
 <pre>
-HTML        ███████░░░░░░░░░░   33.2%
+HTML        ███████░░░░░░░░░   33.2%
 TypeScript  █████░░░░░░░░░░░   22.6%
 JavaScript  ████░░░░░░░░░░░░   18.1%
 CSS         ███░░░░░░░░░░░░░   17.2%
@@ -180,7 +180,6 @@ PowerShell  ░░░░░░░░░░░░░░░░    0.1%
 </pre>
 
 </div>
-
 ---
 
 ## 📈 GITHUB ANALYTICS
