@@ -40,32 +40,105 @@
 <td width="50%">
 
 ### 🎯 BaitBlock
-**AI-Powered Clickbait Detection**
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/slenderongithub/BaitBlock)
 
-> Web application that analyzes news URLs and scores headline credibility using content extraction and heuristic NLP signals
+> AI-powered clickbait detection web app that analyzes news URLs and scores headline credibility using content extraction and heuristic NLP signals.
 
-**🔥 Tech Stack:** Python • NLP • Web Scraping • AI/ML
+**🔥 Lang:** Python &nbsp; [![Stars](https://img.shields.io/badge/⭐-0-00f7ff?style=for-the-badge)](https://github.com/slenderongithub/BaitBlock) [![Forks](https://img.shields.io/badge/🍴-0-00f7ff?style=for-the-badge)](https://github.com/slenderongithub/BaitBlock)
 
 [📂 View Repository →](https://github.com/slenderongithub/BaitBlock)
 
 </td>
 <td width="50%">
 
-### 🛡️ Smart-Glove-Safety-Device
-**AI Wearable Safety**
+### 🛡️ CareLink
 
-[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/slenderongithub/Smart-Glove-Safety-Device)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/slenderongithub/CareLink)
 
-> AI-powered wearable safety device using Arduino and sensors for real-time hazard detection
+> No description provided.
 
-**🔥 Tech Stack:** C++ • Arduino • Sensors • Hardware
+**🔥 Lang:** TypeScript &nbsp; [![Stars](https://img.shields.io/badge/⭐-0-00f7ff?style=for-the-badge)](https://github.com/slenderongithub/CareLink) [![Forks](https://img.shields.io/badge/🍴-0-00f7ff?style=for-the-badge)](https://github.com/slenderongithub/CareLink)
 
-[📂 View Repository →](https://github.com/slenderongithub/Smart-Glove-Safety-Device)
+[📂 View Repository →](https://github.com/slenderongithub/CareLink)
 
 </td>
 </tr>
+
+<tr>
+<td width="50%">
+
+### 💼 DumbAthon
+
+[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/slenderongithub/DumbAthon)
+
+> A very stupid website game made within 2 hours
+
+**🔥 Lang:** HTML &nbsp; [![Stars](https://img.shields.io/badge/⭐-0-00f7ff?style=for-the-badge)](https://github.com/slenderongithub/DumbAthon) [![Forks](https://img.shields.io/badge/🍴-0-00f7ff?style=for-the-badge)](https://github.com/slenderongithub/DumbAthon)
+
+[📂 View Repository →](https://github.com/slenderongithub/DumbAthon)
+
+</td>
+<td width="50%">
+
+### 🎨 HabitTrackerForge
+
+[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/slenderongithub/HabitTrackerForge)
+
+> No description provided.
+
+**🔥 Lang:** HTML &nbsp; [![Stars](https://img.shields.io/badge/⭐-0-00f7ff?style=for-the-badge)](https://github.com/slenderongithub/HabitTrackerForge) [![Forks](https://img.shields.io/badge/🍴-0-00f7ff?style=for-the-badge)](https://github.com/slenderongithub/HabitTrackerForge)
+
+[📂 View Repository →](https://github.com/slenderongithub/HabitTrackerForge)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📊 HACK-ME-IF-YOU-CAN
+
+[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/slenderongithub/HACK-ME-IF-YOU-CAN)
+
+> No description provided.
+
+**🔥 Lang:** HTML &nbsp; [![Stars](https://img.shields.io/badge/⭐-0-00f7ff?style=for-the-badge)](https://github.com/slenderongithub/HACK-ME-IF-YOU-CAN) [![Forks](https://img.shields.io/badge/🍴-1-00f7ff?style=for-the-badge)](https://github.com/slenderongithub/HACK-ME-IF-YOU-CAN)
+
+[📂 View Repository →](https://github.com/slenderongithub/HACK-ME-IF-YOU-CAN)
+
+</td>
+<td width="50%">
+
+### 🎮 Portfolio
+
+[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/slenderongithub/Portfolio)
+
+> No description provided.
+
+**🔥 Lang:** CSS &nbsp; [![Stars](https://img.shields.io/badge/⭐-0-00f7ff?style=for-the-badge)](https://github.com/slenderongithub/Portfolio) [![Forks](https://img.shields.io/badge/🍴-0-00f7ff?style=for-the-badge)](https://github.com/slenderongithub/Portfolio)
+
+[📂 View Repository →](https://github.com/slenderongithub/Portfolio)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" colspan="2" align="center">
+
+### 🔐 slenderongithub
+
+[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/slenderongithub/slenderongithub)
+
+> No description provided.
+
+**🔥 Lang:** HTML &nbsp; [![Stars](https://img.shields.io/badge/⭐-0-00f7ff?style=for-the-badge)](https://github.com/slenderongithub/slenderongithub) [![Forks](https://img.shields.io/badge/🍴-0-00f7ff?style=for-the-badge)](https://github.com/slenderongithub/slenderongithub)
+
+[📂 View Repository →](https://github.com/slenderongithub/slenderongithub)
+
+</td>
+</tr>
+
 </table>
 <!-- PROJECTS:END -->
 
@@ -99,11 +172,12 @@
 
 <!-- LANGS:START -->
 ```text
-Python       ████████████░░░░░░░░   48.0%
-JavaScript   ████████████░░░░░░░░   38.6%
-CSS          ███░░░░░░░░░░░░░░░░░    8.2%
-HTML         ██░░░░░░░░░░░░░░░░░░    4.1%
-PowerShell   ░░░░░░░░░░░░░░░░░░░░    1.1%
+HTML         ███████░░░░░░░░░░░░░   33.2%
+TypeScript   █████░░░░░░░░░░░░░░░   22.6%
+JavaScript   ████░░░░░░░░░░░░░░░░   18.1%
+CSS          ███░░░░░░░░░░░░░░░░░   17.2%
+Python       ██░░░░░░░░░░░░░░░░░░    8.7%
+PowerShell   ░░░░░░░░░░░░░░░░░░░░    0.1%
 ```
 <!-- LANGS:END -->
 
