@@ -168,17 +168,16 @@
 
 <div align="center">
 
-### 📊 Language Distribution
-<!-- LANGS:START -->
-```text
-HTML         ███████░░░░░░░░░░░░░   33.2%
-TypeScript   █████░░░░░░░░░░░░░░░   22.6%
-JavaScript   ████░░░░░░░░░░░░░░░░   18.1%
-CSS          ███░░░░░░░░░░░░░░░░░   17.2%
-Python       ██░░░░░░░░░░░░░░░░░░    8.7%
-PowerShell   ░░░░░░░░░░░░░░░░░░░░    0.1%
-```
-<!-- LANGS:END -->
+### Language Distribution
+
+<pre>
+HTML        ███████░░░░░░░░░░   33.2%
+TypeScript  █████░░░░░░░░░░░   22.6%
+JavaScript  ████░░░░░░░░░░░░   18.1%
+CSS         ███░░░░░░░░░░░░░   17.2%
+Python      ██░░░░░░░░░░░░░░    8.7%
+PowerShell  ░░░░░░░░░░░░░░░░    0.1%
+</pre>
 
 </div>
 
