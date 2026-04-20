@@ -335,7 +335,7 @@ me.say_hi()
 
 ### 🐍 Contribution Graph
 
-![Snake animation](https://github.com/slenderongithub/slenderongithub/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/slenderongithub/slenderongithub/blob/output/github-snake.svg)
 
 </div>
 
