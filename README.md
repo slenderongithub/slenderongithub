@@ -291,7 +291,7 @@ STATUS: SHIPPING  |  COFFEE: ☕☕☕  |  BUGS: DENIED
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-slenderongithub-00f7ff?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a)](https://github.com/slenderongithub)
-[![Email](https://img.shields.io/badge/Email-Contact-00f7ff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact-00f7ff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a)](mailto:slenderisprogramming@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00f7ff?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=1a1a1a)](https://github.com/slenderongithub/Portfolio)
 
 </div>
