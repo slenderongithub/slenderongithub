@@ -34,6 +34,7 @@
 
 ## 🎯 FEATURED PROJECTS
 
+<!-- PROJECTS:START -->
 <table>
 <tr>
 <td width="50%">
@@ -65,88 +66,8 @@
 
 </td>
 </tr>
-
-<tr>
-<td width="50%">
-
-### 💼 CareLink
-**Healthcare Platform**
-
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/slenderongithub/CareLink)
-
-> Modern healthcare connectivity platform built with TypeScript
-
-**🔥 Tech Stack:** TypeScript (97.8%) • JavaScript (2.2%)
-
-[📂 View Repository →](https://github.com/slenderongithub/CareLink)
-
-</td>
-<td width="50%">
-
-### 🎨 Portfolio
-**Personal Showcase**
-
-[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/slenderongithub/Portfolio)
-
-> Sleek, modern portfolio website showcasing projects and skills
-
-**🔥 Tech Stack:** CSS • HTML • JavaScript
-
-[📂 View Repository →](https://github.com/slenderongithub/Portfolio)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 📊 HabitTrackerForge
-**Productivity Tool**
-
-[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/slenderongithub/HabitTrackerForge)
-
-> Track and build better habits with an intuitive web interface
-
-**🔥 Tech Stack:** HTML • CSS • JavaScript
-
-[📂 View Repository →](https://github.com/slenderongithub/HabitTrackerForge)
-
-</td>
-<td width="50%">
-
-### 🎮 DumbAthon
-**Speed Development Challenge**
-
-[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/slenderongithub/DumbAthon)
-
-> "A very stupid website game made within 2 hours" - proving speed matters
-
-**🔥 Tech Stack:** HTML • CSS • JavaScript
-
-[📂 View Repository →](https://github.com/slenderongithub/DumbAthon)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" colspan="2" align="center">
-
-### 🔐 HACK-ME-IF-YOU-CAN
-**Security Challenge**
-
-[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/slenderongithub/HACK-ME-IF-YOU-CAN)
-[![Forks](https://img.shields.io/badge/Forks-1-00f7ff?style=for-the-badge)](https://github.com/slenderongithub/HACK-ME-IF-YOU-CAN)
-
-> Interactive security challenge - test your skills!
-
-**🔥 Tech Stack:** HTML • JavaScript • CSS • Python
-
-[📂 View Repository →](https://github.com/slenderongithub/HACK-ME-IF-YOU-CAN)
-
-</td>
-</tr>
-
 </table>
+<!-- PROJECTS:END -->
 
 ---
 
@@ -176,6 +97,7 @@
 
 ### 📊 Language Distribution
 
+<!-- LANGS:START -->
 ```text
 Python       ████████████░░░░░░░░   48.0%
 JavaScript   ████████████░░░░░░░░   38.6%
@@ -183,6 +105,7 @@ CSS          ███░░░░░░░░░░░░░░░░░    8.2
 HTML         ██░░░░░░░░░░░░░░░░░░    4.1%
 PowerShell   ░░░░░░░░░░░░░░░░░░░░    1.1%
 ```
+<!-- LANGS:END -->
 
 </div>
 
@@ -274,22 +197,6 @@ const currentlyWorkingOn = {
 
 ---
 
-## 🌟 PROJECT HIGHLIGHTS
-
-<div align="center">
-
-| Project | Category | Impact |
-|:-------:|:--------:|:------:|
-| 🎯 **BaitBlock** | AI/NLP | Fighting misinformation with intelligent content analysis |
-| 🛡️ **Smart Glove** | IoT/Safety | Protecting workers with real-time hazard detection |
-| 💼 **CareLink** | Healthcare | Connecting patients and providers seamlessly |
-| 🔐 **HACK-ME** | Security | Educational cybersecurity challenges |
-| ⚡ **DumbAthon** | Speed Dev | Proving rapid prototyping capabilities |
-
-</div>
-
----
-
 ## 🎨 CODE PHILOSOPHY
 
 <div align="center">
@@ -320,7 +227,7 @@ me.say_hi()
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-slenderongithub-00f7ff?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a)](https://github.com/slenderongithub)
-[![Email](https://img.shields.io/badge/Email-Contact-00f7ff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a)](mailto:slenderisprogramming@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-00f7ff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a)](mailto:your.email@example.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00f7ff?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=1a1a1a)](https://github.com/slenderongithub/Portfolio)
 
 </div>
@@ -335,7 +242,7 @@ me.say_hi()
 
 ### 🐍 Contribution Graph
 
-![Snake animation](https://github.com/slenderongithub/slenderongithub/blob/output/github-snake.svg)
+![Snake animation](https://github.com/slenderongithub/slenderongithub/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
