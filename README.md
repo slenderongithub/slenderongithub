@@ -8,12 +8,13 @@
 
 <div align="center">
 
-```ascii
-╔═══════════════════════════════════════════════════════════════╗
-║  🚀  Crafting intelligent applications that bridge           ║
-║      hardware, web, and artificial intelligence              ║
-╚═══════════════════════════════════════════════════════════════╝
-```
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header"/>
+
+### 🚀 Crafting intelligent applications that bridge hardware, web, and artificial intelligence
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header"/>
 
 </div>
 
@@ -190,16 +191,55 @@ PowerShell   ░░░░░░░░░░░░░░░░░░░░    1.1
 ## 📈 GITHUB ANALYTICS
 
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=slenderongithub&show_icons=true&theme=radical&bg_color=0d1117&title_color=00f7ff&icon_color=00f7ff&text_color=c9d1d9&border_color=00f7ff&hide_border=false" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=slenderongithub&theme=radical&background=0d1117&ring=00f7ff&fire=00f7ff&currStreakLabel=00f7ff&border=00f7ff&hide_border=false" />
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&animation=twinkling"/>
 
 </div>
 
 <div align="center">
+  
+<table>
+<tr>
+<td width="50%" align="center">
+  
+<img src="https://github-readme-stats.vercel.app/api?username=slenderongithub&show_icons=true&theme=radical&bg_color=0d1117&title_color=00f7ff&icon_color=00f7ff&text_color=c9d1d9&border_color=00f7ff&hide_border=false&include_all_commits=true&count_private=true" width="100%" />
+  
+</td>
+<td width="50%" align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slenderongithub&layout=compact&theme=radical&bg_color=0d1117&title_color=00f7ff&text_color=c9d1d9&border_color=00f7ff&hide_border=false&langs_count=8" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=slenderongithub&theme=react-dark&bg_color=0d1117&color=00f7ff&line=00f7ff&point=c9d1d9&area=true&hide_border=false" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=slenderongithub&theme=radical&background=0d1117&ring=00f7ff&fire=00f7ff&currStreakLabel=00f7ff&sideNums=00f7ff&sideLabels=c9d1d9&dates=c9d1d9&border=00f7ff" width="100%" />
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=slenderongithub&theme=react-dark&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=false&custom_title=Contribution%20Activity%20Graph" width="100%" />
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slenderongithub&layout=compact&theme=radical&bg_color=0d1117&title_color=00f7ff&text_color=c9d1d9&border_color=00f7ff&hide_border=false&langs_count=10&card_width=400" width="100%" />
+
+</td>
+<td width="50%" align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=slenderongithub&theme=radical&utcOffset=5.5" width="100%" />
+
+</td>
+</tr>
+
+</table>
+
+</div>
+
+<div align="center">
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
 
 </div>
 
