@@ -253,31 +253,33 @@ PowerShell  ░░░░░░░░░░░░░░░░    0.1%
 
 <div align="center">
 
-```yaml
-# ╔══════════════════════════════════════════════════════════════╗
-# ║            ⚡  SLENDER — LIVE DEVELOPER PROFILE  ⚡          ║
-# ╚══════════════════════════════════════════════════════════════╝
+<pre>
 
-status:       🟢 ONLINE
-uptime:       "Building since day one"
+╔══════════════════════════════════════════════════════════════╗
+║            SLENDER — LIVE DEVELOPER PROFILE                 ║
+╚══════════════════════════════════════════════════════════════╝
 
-focus:        "AI/ML Applications & Web Development"
-building:     "Intelligent solutions that solve real problems"
+status:       ONLINE
+uptime:       Building since day one
+
+focus:        AI/ML Applications & Web Development
+building:     Intelligent solutions that solve real problems
 
 learning:
-  - "> Advanced NLP          [████████████░░░░]  75%"
-  - "> Computer Vision       [█████████░░░░░░░]  56%"
-  - "> IoT Integration       [███████████████░]  94%"
+  > Advanced NLP        [████████████░░░░]  75%
+  > Computer Vision     [█████████░░░░░░░]  56%
+  > IoT Integration     [███████████████░]  94%
 
-interests:    [ AI Safety, Clickbait Detection, Wearable Tech ]
-ask_me_about: [ Python, JavaScript, AI/ML, Arduino ]
+interests:    AI Safety, Clickbait Detection, Wearable Tech
+ask_me_about: Python, JavaScript, AI/ML, Arduino
 
-fun_fact:     "Built a game in 2 hours because why not? 🚀"
+fun_fact:     Built a game in 2 hours because why not?
 
-# ──────────────────────────────────────────────────────────────
-# STATUS: SHIPPING  |  COFFEE: ☕☕☕  |  BUGS: DENIED
-# ──────────────────────────────────────────────────────────────
-```
+──────────────────────────────────────────────────────────────
+STATUS: SHIPPING  |  COFFEE: ☕☕☕  |  BUGS: DENIED
+──────────────────────────────────────────────────────────────
+
+</pre>
 
 </div>
 
