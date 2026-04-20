@@ -166,7 +166,7 @@
 
 </div>
 
-<div align="center">
+<div align="right"
 
 ### 📊 Language Distribution
 
