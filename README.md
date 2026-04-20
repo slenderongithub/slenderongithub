@@ -322,8 +322,3 @@ STATUS: SHIPPING  |  COFFEE: ☕☕☕  |  BUGS: DENIED
 
 </div>
 
----
-
-<div align="center">
-<sub>Last updated: April 2026 | Made with 💙 and lots of ☕</sub>
-</div>
