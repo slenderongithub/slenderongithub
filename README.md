@@ -110,7 +110,23 @@
 </td>
 <td width="50%">
 
-### 🎮 Portfolio
+### 🎮 Pest-Detection
+
+[![Jupyter Notebook](https://img.shields.io/badge/Jupyter Notebook-555555?style=for-the-badge&logo=github&logoColor=white)](https://github.com/slenderongithub/Pest-Detection)
+
+> 🌿 Deep learning web app that detects plant diseases from leaf images and recommends pesticide treatments — built with ResNet34, FastAI & Streamlit.
+
+**🔥 Lang:** Jupyter Notebook &nbsp; [![Stars](https://img.shields.io/badge/⭐-0-00f7ff?style=for-the-badge)](https://github.com/slenderongithub/Pest-Detection) [![Forks](https://img.shields.io/badge/🍴-0-00f7ff?style=for-the-badge)](https://github.com/slenderongithub/Pest-Detection)
+
+[📂 View Repository →](https://github.com/slenderongithub/Pest-Detection)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🔐 Portfolio
 
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/slenderongithub/Portfolio)
 
@@ -121,12 +137,9 @@
 [📂 View Repository →](https://github.com/slenderongithub/Portfolio)
 
 </td>
-</tr>
+<td width="50%">
 
-<tr>
-<td width="50%" colspan="2" align="center">
-
-### 🔐 slenderongithub
+### ⚡ slenderongithub
 
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/slenderongithub/slenderongithub)
 
