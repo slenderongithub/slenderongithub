@@ -56,7 +56,7 @@
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/slenderongithub/CareLink)
 
-> No description provided.
+> A care coordination app designed to help families seamlessly manage health routines. It features medication adherence tracking, shared timelines for tasks and updates, and low-friction AI wellness check-ins to proactively surface health concerns.
 
 **🔥 Lang:** TypeScript &nbsp; [![Stars](https://img.shields.io/badge/⭐-0-00f7ff?style=for-the-badge)](https://github.com/slenderongithub/CareLink) [![Forks](https://img.shields.io/badge/🍴-0-00f7ff?style=for-the-badge)](https://github.com/slenderongithub/CareLink)
 
@@ -85,7 +85,7 @@
 
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/slenderongithub/HabitTrackerForge)
 
-> No description provided.
+> A lightweight, minimalist habit tracker to help you build positive routines and visualize your daily progress.
 
 **🔥 Lang:** HTML &nbsp; [![Stars](https://img.shields.io/badge/⭐-0-00f7ff?style=for-the-badge)](https://github.com/slenderongithub/HabitTrackerForge) [![Forks](https://img.shields.io/badge/🍴-0-00f7ff?style=for-the-badge)](https://github.com/slenderongithub/HabitTrackerForge)
 
@@ -101,7 +101,7 @@
 
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/slenderongithub/HACK-ME-IF-YOU-CAN)
 
-> No description provided.
+> An interactive "Hack-Me-If-You-Can" quiz website designed to teach modern cybersecurity threats through hands-on scenarios
 
 **🔥 Lang:** HTML &nbsp; [![Stars](https://img.shields.io/badge/⭐-0-00f7ff?style=for-the-badge)](https://github.com/slenderongithub/HACK-ME-IF-YOU-CAN) [![Forks](https://img.shields.io/badge/🍴-0-00f7ff?style=for-the-badge)](https://github.com/slenderongithub/HACK-ME-IF-YOU-CAN)
 
@@ -130,7 +130,7 @@
 
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/slenderongithub/Portfolio)
 
-> No description provided.
+> The source code for my personal developer portfolio and project showcase.
 
 **🔥 Lang:** CSS &nbsp; [![Stars](https://img.shields.io/badge/⭐-0-00f7ff?style=for-the-badge)](https://github.com/slenderongithub/Portfolio) [![Forks](https://img.shields.io/badge/🍴-0-00f7ff?style=for-the-badge)](https://github.com/slenderongithub/Portfolio)
 
