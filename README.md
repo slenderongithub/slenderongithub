@@ -52,7 +52,23 @@
 </td>
 <td width="50%">
 
-### 🛡️ CareLink
+### 🛡️ breakhis-fl-fairness-benchmark
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/slenderongithub/breakhis-fl-fairness-benchmark)
+
+> A federated learning benchmark evaluating the impact of normalization techniques (BatchNorm, GroupNorm, LayerNorm, InstanceNorm), focal loss, and regularization on accuracy, training time, and class fairness tradeoffs using the non-IID BreakHis breast cancer dataset.
+
+**🔥 Lang:** Python &nbsp; [![Stars](https://img.shields.io/badge/⭐-0-00f7ff?style=for-the-badge)](https://github.com/slenderongithub/breakhis-fl-fairness-benchmark) [![Forks](https://img.shields.io/badge/🍴-0-00f7ff?style=for-the-badge)](https://github.com/slenderongithub/breakhis-fl-fairness-benchmark)
+
+[📂 View Repository →](https://github.com/slenderongithub/breakhis-fl-fairness-benchmark)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 💼 CareLink
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/slenderongithub/CareLink)
 
@@ -63,12 +79,9 @@
 [📂 View Repository →](https://github.com/slenderongithub/CareLink)
 
 </td>
-</tr>
-
-<tr>
 <td width="50%">
 
-### 💼 DumbAthon
+### 🎨 DumbAthon
 
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/slenderongithub/DumbAthon)
 
@@ -79,9 +92,12 @@
 [📂 View Repository →](https://github.com/slenderongithub/DumbAthon)
 
 </td>
+</tr>
+
+<tr>
 <td width="50%">
 
-### 🎨 HabitTrackerForge
+### 📊 HabitTrackerForge
 
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/slenderongithub/HabitTrackerForge)
 
@@ -92,12 +108,9 @@
 [📂 View Repository →](https://github.com/slenderongithub/HabitTrackerForge)
 
 </td>
-</tr>
-
-<tr>
 <td width="50%">
 
-### 📊 HACK-ME-IF-YOU-CAN
+### 🎮 HACK-ME-IF-YOU-CAN
 
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/slenderongithub/HACK-ME-IF-YOU-CAN)
 
@@ -108,9 +121,12 @@
 [📂 View Repository →](https://github.com/slenderongithub/HACK-ME-IF-YOU-CAN)
 
 </td>
+</tr>
+
+<tr>
 <td width="50%">
 
-### 🎮 Pest-Detection
+### 🔐 Pest-Detection
 
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter Notebook-555555?style=for-the-badge&logo=github&logoColor=white)](https://github.com/slenderongithub/Pest-Detection)
 
@@ -121,12 +137,9 @@
 [📂 View Repository →](https://github.com/slenderongithub/Pest-Detection)
 
 </td>
-</tr>
-
-<tr>
 <td width="50%">
 
-### 🔐 Portfolio
+### ⚡ Portfolio
 
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/slenderongithub/Portfolio)
 
@@ -137,9 +150,12 @@
 [📂 View Repository →](https://github.com/slenderongithub/Portfolio)
 
 </td>
-<td width="50%">
+</tr>
 
-### ⚡ slenderongithub
+<tr>
+<td width="50%" colspan="2" align="center">
+
+### 🌐 slenderongithub
 
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/slenderongithub/slenderongithub)
 
