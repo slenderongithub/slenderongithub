@@ -1,344 +1,213 @@
-<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:071e2a,100:003d4d&height=180&section=header&text=Slender&fontSize=60&fontColor=00f7ff&fontAlignY=42&desc=CS%20Student%20%C2%B7%20AI%2FML%20Researcher%20%C2%B7%20Full-Stack%20Developer&descAlignY=65&descSize=17&descColor=7a9eaa"/>
 
-# 🌐 SLENDER // DEV PORTFOLIO
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Full-Stack+Developer+%7C+AI+Enthusiast;Building+Smart+Solutions+%7C+Breaking+Conventions" alt="Typing SVG" />
-
-</div>
+<br/>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header"/>
-
-### 🚀 Crafting intelligent applications that bridge hardware, web, and artificial intelligence
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header"/>
+[![VIT-AP](https://img.shields.io/badge/VIT--AP_University-Computer_Science-00f7ff?style=flat-square&logoColor=white&labelColor=0d1117)](https://github.com/slenderongithub)
+&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/slenderisprogramming@gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=00f7ff)](mailto:slenderisprogramming@gmail.com)
+&nbsp;&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-slenderongithub.github.io-0d1117?style=flat-square&logo=github&logoColor=00f7ff)](https://slenderongithub.github.io/Portfolio)
+&nbsp;&nbsp;
+[![Profile Views](https://komarev.com/ghpvc/?username=slenderongithub&color=00f7ff&style=flat-square&label=profile+views)](https://github.com/slenderongithub)
 
 </div>
+
+<br/>
 
 ---
 
-## ⚡ SYSTEM STATUS
+## `$ whoami`
 
-<div align="center">
+CS student at **VIT-AP** specializing in AI/ML, with a focus on where machine learning meets real-world constraints — edge deployment, healthcare data, and fairness in distributed systems.
 
-![Profile Views](https://komarev.com/ghpvc/?username=slenderongithub&color=00f7ff&style=for-the-badge&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/slenderongithub?style=for-the-badge&color=00f7ff&labelColor=1a1a1a)](https://github.com/slenderongithub)
-[![GitHub Stars](https://img.shields.io/github/stars/slenderongithub?style=for-the-badge&color=00f7ff&labelColor=1a1a1a)](https://github.com/slenderongithub)
+- 🔬 &nbsp;Benchmarking **federated learning** fairness on the BreakHis breast cancer histopathology dataset
+- 🌐 &nbsp;Building a personal **developer portfolio** with a terminal/IDE aesthetic
+- 🧠 &nbsp;Exploring Computer Vision, NLP, and privacy-preserving ML
+- ⚡ &nbsp;Occasionally builds things in 2 hours. Sometimes they work.
 
-</div>
+<br/>
 
 ---
 
-## 🎯 FEATURED PROJECTS
+## `$ ls tech-stack/`
 
-<!-- PROJECTS:START -->
-<table>
-<tr>
-<td width="50%">
+<div align="center">
 
-### 🎯 BaitBlock
+**Languages**
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/slenderongithub/BaitBlock)
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp,html,css&theme=dark" />
 
-> AI-powered clickbait detection web app that analyzes news URLs and scores headline credibility using content extraction and heuristic NLP signals.
+**Frameworks & Libraries**
 
-**🔥 Lang:** Python &nbsp; [![Stars](https://img.shields.io/badge/⭐-0-00f7ff?style=for-the-badge)](https://github.com/slenderongithub/BaitBlock) [![Forks](https://img.shields.io/badge/🍴-0-00f7ff?style=for-the-badge)](https://github.com/slenderongithub/BaitBlock)
+<img src="https://skillicons.dev/icons?i=react,nodejs,flask,tensorflow&theme=dark" />
 
-[📂 View Repository →](https://github.com/slenderongithub/BaitBlock)
+**Tools & Platforms**
 
-</td>
-<td width="50%">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,arduino&theme=dark" />
 
-### 🛡️ breakhis-fl-fairness-benchmark
+**Databases & Cloud**
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/slenderongithub/breakhis-fl-fairness-benchmark)
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,firebase,aws&theme=dark" />
 
-> A federated learning benchmark evaluating the impact of normalization techniques (BatchNorm, GroupNorm, LayerNorm, InstanceNorm), focal loss, and regularization on accuracy, training time, and class fairness tradeoffs using the non-IID BreakHis breast cancer dataset.
+</div>
 
-**🔥 Lang:** Python &nbsp; [![Stars](https://img.shields.io/badge/⭐-0-00f7ff?style=for-the-badge)](https://github.com/slenderongithub/breakhis-fl-fairness-benchmark) [![Forks](https://img.shields.io/badge/🍴-0-00f7ff?style=for-the-badge)](https://github.com/slenderongithub/breakhis-fl-fairness-benchmark)
-
-[📂 View Repository →](https://github.com/slenderongithub/breakhis-fl-fairness-benchmark)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 💼 CareLink
-
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/slenderongithub/CareLink)
-
-> A care coordination app designed to help families seamlessly manage health routines. It features medication adherence tracking, shared timelines for tasks and updates, and low-friction AI wellness check-ins to proactively surface health concerns.
-
-**🔥 Lang:** TypeScript &nbsp; [![Stars](https://img.shields.io/badge/⭐-0-00f7ff?style=for-the-badge)](https://github.com/slenderongithub/CareLink) [![Forks](https://img.shields.io/badge/🍴-0-00f7ff?style=for-the-badge)](https://github.com/slenderongithub/CareLink)
-
-[📂 View Repository →](https://github.com/slenderongithub/CareLink)
-
-</td>
-<td width="50%">
-
-### 🎨 DumbAthon
-
-[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/slenderongithub/DumbAthon)
-
-> A very stupid website game made within 2 hours
-
-**🔥 Lang:** HTML &nbsp; [![Stars](https://img.shields.io/badge/⭐-0-00f7ff?style=for-the-badge)](https://github.com/slenderongithub/DumbAthon) [![Forks](https://img.shields.io/badge/🍴-0-00f7ff?style=for-the-badge)](https://github.com/slenderongithub/DumbAthon)
-
-[📂 View Repository →](https://github.com/slenderongithub/DumbAthon)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 📊 HabitTrackerForge
-
-[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/slenderongithub/HabitTrackerForge)
-
-> A lightweight, minimalist habit tracker to help you build positive routines and visualize your daily progress.
-
-**🔥 Lang:** HTML &nbsp; [![Stars](https://img.shields.io/badge/⭐-0-00f7ff?style=for-the-badge)](https://github.com/slenderongithub/HabitTrackerForge) [![Forks](https://img.shields.io/badge/🍴-0-00f7ff?style=for-the-badge)](https://github.com/slenderongithub/HabitTrackerForge)
-
-[📂 View Repository →](https://github.com/slenderongithub/HabitTrackerForge)
-
-</td>
-<td width="50%">
-
-### 🎮 HACK-ME-IF-YOU-CAN
-
-[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/slenderongithub/HACK-ME-IF-YOU-CAN)
-
-> An interactive "Hack-Me-If-You-Can" quiz website designed to teach modern cybersecurity threats through hands-on scenarios
-
-**🔥 Lang:** HTML &nbsp; [![Stars](https://img.shields.io/badge/⭐-0-00f7ff?style=for-the-badge)](https://github.com/slenderongithub/HACK-ME-IF-YOU-CAN) [![Forks](https://img.shields.io/badge/🍴-0-00f7ff?style=for-the-badge)](https://github.com/slenderongithub/HACK-ME-IF-YOU-CAN)
-
-[📂 View Repository →](https://github.com/slenderongithub/HACK-ME-IF-YOU-CAN)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🔐 Pest-Detection
-
-[![Jupyter Notebook](https://img.shields.io/badge/Jupyter Notebook-555555?style=for-the-badge&logo=github&logoColor=white)](https://github.com/slenderongithub/Pest-Detection)
-
-> 🌿 Deep learning web app that detects plant diseases from leaf images and recommends pesticide treatments — built with ResNet34, FastAI & Streamlit.
-
-**🔥 Lang:** Jupyter Notebook &nbsp; [![Stars](https://img.shields.io/badge/⭐-0-00f7ff?style=for-the-badge)](https://github.com/slenderongithub/Pest-Detection) [![Forks](https://img.shields.io/badge/🍴-0-00f7ff?style=for-the-badge)](https://github.com/slenderongithub/Pest-Detection)
-
-[📂 View Repository →](https://github.com/slenderongithub/Pest-Detection)
-
-</td>
-<td width="50%">
-
-### ⚡ Portfolio
-
-[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/slenderongithub/Portfolio)
-
-> The source code for my personal developer portfolio and project showcase.
-
-**🔥 Lang:** HTML &nbsp; [![Stars](https://img.shields.io/badge/⭐-0-00f7ff?style=for-the-badge)](https://github.com/slenderongithub/Portfolio) [![Forks](https://img.shields.io/badge/🍴-0-00f7ff?style=for-the-badge)](https://github.com/slenderongithub/Portfolio)
-
-[📂 View Repository →](https://github.com/slenderongithub/Portfolio)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" colspan="2" align="center">
-
-### 🌐 slenderongithub
-
-[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/slenderongithub/slenderongithub)
-
-> No description provided.
-
-**🔥 Lang:** HTML &nbsp; [![Stars](https://img.shields.io/badge/⭐-0-00f7ff?style=for-the-badge)](https://github.com/slenderongithub/slenderongithub) [![Forks](https://img.shields.io/badge/🍴-0-00f7ff?style=for-the-badge)](https://github.com/slenderongithub/slenderongithub)
-
-[📂 View Repository →](https://github.com/slenderongithub/slenderongithub)
-
-</td>
-</tr>
-
-</table>
-<!-- PROJECTS:END -->
+<br/>
 
 ---
 
-## 🛠️ TECHNOLOGY ARSENAL
-
-<div align="center">
-
-### Primary Languages
-
-<img src="https://skillicons.dev/icons?i=python,js,ts,cpp,html,css" />
-
-### Frameworks & Libraries
-
-<img src="https://skillicons.dev/icons?i=nodejs,react,flask,tensorflow" />
-
-### Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,arduino,linux,docker" />
-
-### Databases & Cloud
-
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,firebase,aws" />
-
-</div>
-
-<div align="center">
-
-### Language Distribution
-
-<pre>
-HTML        ███████░░░░░░░░░   33.2%
-TypeScript  █████░░░░░░░░░░░   22.6%
-JavaScript  ████░░░░░░░░░░░░   18.1%
-CSS         ███░░░░░░░░░░░░░   17.2%
-Python      ██░░░░░░░░░░░░░░    8.7%
-PowerShell  ░░░░░░░░░░░░░░░░    0.1%
-</pre>
-
-</div>
----
-
-## 📈 GITHUB ANALYTICS
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&animation=twinkling"/>
-
-</div>
+## `$ cat current-focus.txt`
 
 <div align="center">
 
 <table>
 <tr>
-<td width="50%" align="center">
+<td align="center" width="33%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=slenderongithub&show_icons=true&theme=radical&bg_color=0d1117&title_color=00f7ff&icon_color=00f7ff&text_color=c9d1d9&border_color=00f7ff&hide_border=false&include_all_commits=true&count_private=true" width="100%" />
-
-</td>
-<td width="50%" align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=slenderongithub&theme=radical&background=0d1117&ring=00f7ff&fire=00f7ff&currStreakLabel=00f7ff&sideNums=00f7ff&sideLabels=c9d1d9&dates=c9d1d9&border=00f7ff" width="100%" />
+**🔬 Research**
+<br/><br/>
+Federated Learning fairness benchmarks on medical imaging · Non-IID data distribution · Normalization technique comparisons (BN / GN / LN / IN)
 
 </td>
-</tr>
+<td align="center" width="33%">
 
-<tr>
-<td colspan="2" align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=slenderongithub&theme=react-dark&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=false&custom_title=Contribution%20Activity%20Graph" width="100%" />
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slenderongithub&layout=compact&theme=radical&bg_color=0d1117&title_color=00f7ff&text_color=c9d1d9&border_color=00f7ff&hide_border=false&langs_count=10&card_width=400" width="100%" />
+**🌐 Building**
+<br/><br/>
+Personal portfolio with terminal & IDE aesthetics · CRT effects · 3D skills globe · Interactive project explorer panels
 
 </td>
-<td width="50%" align="center">
+<td align="center" width="33%">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=slenderongithub&theme=radical&utcOffset=5.5" width="100%" />
+**📚 Learning**
+<br/><br/>
+Advanced NLP architectures · Edge AI deployment · Privacy-preserving ML · IoT integration with ML pipelines
 
 </td>
 </tr>
-
 </table>
 
 </div>
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
-
-</div>
+<br/>
 
 ---
 
+## `$ ls pinned-projects/`
 
-## 💡 CURRENT FOCUS
+<br/>
 
 <div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<pre>
+### 🧬 &nbsp;breakhis-fl-fairness-benchmark
+[![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00f7ff)](https://github.com/slenderongithub/breakhis-fl-fairness-benchmark)
+[![Research](https://img.shields.io/badge/Research-0d1117?style=flat-square&logoColor=00f7ff&color=0d1117&labelColor=0d1117)](https://github.com/slenderongithub/breakhis-fl-fairness-benchmark)
 
-╔══════════════════════════════════════════════════════════════╗
-║            SLENDER — LIVE DEVELOPER PROFILE                 ║
-╚══════════════════════════════════════════════════════════════╝
+Federated learning benchmark evaluating normalization techniques (BatchNorm, GroupNorm, LayerNorm, InstanceNorm), focal loss, and regularization on accuracy, training time, and class fairness — using the non-IID BreakHis breast cancer dataset.
 
-status:       ONLINE
-uptime:       Building since day one
+[→ View Repository](https://github.com/slenderongithub/breakhis-fl-fairness-benchmark)
 
-focus:        AI/ML Applications & Web Development
-building:     Intelligent solutions that solve real problems
+</td>
+<td width="50%" valign="top">
 
-learning:
-  > Advanced NLP        [████████████░░░░]  75%
-  > Computer Vision     [█████████░░░░░░░]  56%
-  > IoT Integration     [███████████████░]  94%
+### 🎯 &nbsp;BaitBlock
+[![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00f7ff)](https://github.com/slenderongithub/BaitBlock)
+[![NLP](https://img.shields.io/badge/NLP-0d1117?style=flat-square&logoColor=00f7ff&color=0d1117&labelColor=0d1117)](https://github.com/slenderongithub/BaitBlock)
 
-interests:    AI Safety, Clickbait Detection, Wearable Tech
-ask_me_about: Python, JavaScript, AI/ML, Arduino
+AI-powered clickbait detection web app. Analyzes news URLs, extracts article content, and scores headline credibility using heuristic NLP signals.
 
-fun_fact:     Built a game in 2 hours because why not?
+[→ View Repository](https://github.com/slenderongithub/BaitBlock)
 
-──────────────────────────────────────────────────────────────
-STATUS: SHIPPING  |  COFFEE: ☕☕☕  |  BUGS: DENIED
-──────────────────────────────────────────────────────────────
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-</pre>
+### 💼 &nbsp;CareLink
+[![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=00f7ff)](https://github.com/slenderongithub/CareLink)
+[![HealthTech](https://img.shields.io/badge/HealthTech-0d1117?style=flat-square&logoColor=00f7ff&color=0d1117&labelColor=0d1117)](https://github.com/slenderongithub/CareLink)
 
+Care coordination app for families — medication adherence tracking, shared health timelines, and AI-powered wellness check-ins to surface concerns early.
+
+[→ View Repository](https://github.com/slenderongithub/CareLink)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌿 &nbsp;Pest-Detection
+[![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=flat-square&logo=jupyter&logoColor=00f7ff)](https://github.com/slenderongithub/Pest-Detection)
+[![CV](https://img.shields.io/badge/Computer_Vision-0d1117?style=flat-square&logoColor=00f7ff&color=0d1117&labelColor=0d1117)](https://github.com/slenderongithub/Pest-Detection)
+
+Deep learning web app that identifies plant diseases from leaf images and recommends pesticide treatments — built with ResNet34, FastAI, and Streamlit.
+
+[→ View Repository](https://github.com/slenderongithub/Pest-Detection)
+
+</td>
+</tr>
+</table>
 </div>
+
+<br/>
 
 ---
 
+## `$ git log --stat`
 
-## 📫 CONNECT WITH ME
+<br/>
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-slenderongithub-00f7ff?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a)](https://github.com/slenderongithub)
-[![Email](https://img.shields.io/badge/Email-Contact-00f7ff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a)](mailto:slenderisprogramming@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00f7ff?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=1a1a1a)](https://github.com/slenderongithub/Portfolio)
+<img src="https://github-readme-stats.vercel.app/api?username=slenderongithub&show_icons=true&theme=transparent&bg_color=0d1117&title_color=00f7ff&icon_color=00f7ff&text_color=7a9eaa&border_color=1e3a47&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github" width="48%" />
+&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=slenderongithub&theme=transparent&background=0d1117&ring=00f7ff&fire=00f7ff&currStreakLabel=00f7ff&sideNums=7a9eaa&sideLabels=7a9eaa&dates=7a9eaa&border=1e3a47" width="48%" />
 
 </div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slenderongithub&layout=compact&theme=transparent&bg_color=0d1117&title_color=00f7ff&text_color=7a9eaa&border_color=1e3a47&hide_border=false&langs_count=8&card_width=500" width="50%" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=slenderongithub&bg_color=0d1117&color=00f7ff&line=1e3a47&point=00f7ff&area_color=071e2a&area=true&hide_border=false&border_color=1e3a47&custom_title=Contribution%20Graph" width="97%" />
+
+</div>
+
+<br/>
 
 ---
 
+## `$ cat connect.md`
+
 <div align="center">
 
-### 💭 Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true&borderColor=00f7ff)
-
-### 🐍 Contribution Graph
-
-![Snake animation](https://github.com/slenderongithub/slenderongithub/blob/output/github-snake.svg)
+[![GitHub](https://img.shields.io/badge/GitHub-slenderongithub-0d1117?style=for-the-badge&logo=github&logoColor=00f7ff&labelColor=0d1117)](https://github.com/slenderongithub)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-Get_in_Touch-0d1117?style=for-the-badge&logo=gmail&logoColor=00f7ff&labelColor=0d1117)](mailto:slenderisprogramming@gmail.com)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-0d1117?style=for-the-badge&logo=google-chrome&logoColor=00f7ff&labelColor=0d1117)](https://slenderongithub.github.io/Portfolio)
 
 </div>
+
+<br/>
 
 ---
 
+## `$ watch contributions`
+
 <div align="center">
 
-### ⭐ Star my repositories if you find them useful!
-
-**"Building the future, one commit at a time"** ✨
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00f7ff&height=100&section=footer" width="100%"/>
+<img src="https://raw.githubusercontent.com/slenderongithub/slenderongithub/output/github-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:003d4d,50:071e2a,100:0d1117&height=120&section=footer"/>
